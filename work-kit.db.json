@@ -1,1 +1,45 @@
-{}
+{
+  "featuresInfo": [],
+  "workTimeRecords": [
+    {
+      "featureName": "bar",
+      "lastRecordTime": 1591775491965,
+      "workTime": 0,
+      "detail": {
+        "Wed Jun 10 2020": {
+          "lastRecordTime": 1591775491965,
+          "workTime": 0
+        }
+      }
+    },
+    {
+      "featureName": "bar",
+      "lastRecordTime": 1592106427854,
+      "workTime": 0,
+      "detail": {
+        "Sun Jun 14 2020": {
+          "lastRecordTime": 1592106427854,
+          "workTime": 0
+        }
+      }
+    },
+    {
+      "featureName": "bar",
+      "lastRecordTime": 1592106491356,
+      "workTime": 0,
+      "detail": {
+        "Sun Jun 14 2020": {
+          "lastRecordTime": 1592106491356,
+          "workTime": 0
+        }
+      }
+    }
+  ],
+  "dateReverseIndex": {
+    "Wed Jun 10 2020": {},
+    "Sun Jun 14 2020": {}
+  },
+  "userInfo": {
+    "username": "foo"
+  }
+}

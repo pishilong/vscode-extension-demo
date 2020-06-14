@@ -10,6 +10,7 @@
 		"Other"
 	],
 	"activationEvents": [
+		"*",
 		"onCommand:work-kit-demo.helloWorld",
 		"onCommand:work-kit-demo.recordTime"
 	],
